@@ -1,4 +1,4 @@
-# AnnaKabatova# Six Degrees of Hollywood
+# Six Degrees of Hollywood
 
 ## Background
 
